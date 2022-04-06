@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Hind&display=swap');
+
+body {
+    background: rgb(103, 103, 245);
+    font: normal  15pt Arial;
+    font-family: 'Hind';
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+}
+
+#palavra {
+    border-radius: 10px;
+    font-family: 'Hind';
+    width: 200px;
+    padding: 5px 10px;
+    font-size: 15px;
+}
+
+#verificar {
+    border-radius: 10px;
+    font-family: 'Hind';
+    width: 100px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+section #res {
+    text-align: center;
+}
