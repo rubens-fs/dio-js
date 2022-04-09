@@ -14,6 +14,7 @@ As atividades encontradas nesse repositório são:
 
  - Verificador de Palíndromo;
  - Tratamento de Erros;
+ - Consumindo APIs;
  - Em breve mais!
 
 OBS.: As atividades também irão informar de possíveis erros quando certos parâmetros não forem atendidos.
