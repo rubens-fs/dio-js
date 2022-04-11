@@ -16,7 +16,7 @@ As atividades encontradas nesse repositório são:
  - Tratamento de Erros;
  - Consumindo APIs;
  - Orientação a Objetos;
- - Em breve mais!
+ - Light Mode/Dark Mode.
 
 OBS.: As atividades também irão informar de possíveis erros quando certos parâmetros não forem atendidos.
 
